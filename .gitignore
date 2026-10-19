@@ -1,0 +1,10 @@
+# Dépendances Node.js
+Stand'art_v2/node_modules/
+Stand'art_v2/node_modules/
+
+# Dépendances PHP de Laravel
+Stand'art_v2/vendor/
+
+# environnements
+.env
+**/.env
